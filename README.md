@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErdemAygun
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning SQL and Python 
-- 💞️ I’m looking to collaborate on people who like to developing their competency on data.
+- 👀 I’m interested in Python, Automation and testing environments
+- 🌱 I’m currently learning Python and libraries
+- 💞️ I’m looking to collaborate on people who like to developing their competency on Python.
 - 📫 How to reach me;
 via LinkedIn shorturl.at/cxU18
 via Twitter twitter.com/ErdemAygun
